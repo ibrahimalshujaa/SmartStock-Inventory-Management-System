@@ -143,10 +143,6 @@ SmartStock includes two pre-configured accounts:
 *   **Barcode Printing:** Print barcode labels directly from the products management view.
 *   **Supplier Directory:** Link products to a database of active vendors and suppliers.
 
----
-
-## ✍️ Author
-
 ## ✍ Author
 
 Developed by Ibrahim Alshujaa  
