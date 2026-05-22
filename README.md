@@ -147,5 +147,9 @@ SmartStock includes two pre-configured accounts:
 
 ## ✍️ Author
 
-*   **[Your Name / Student ID]**
-*   *Project developed for Academic Coursework / Personal Portfolio.*
+## ✍ Author
+
+Developed by Ibrahim Alshujaa  
+Computer Technology and Information Systems Student  
+
+*Project developed for academic coursework and personal portfolio.*
